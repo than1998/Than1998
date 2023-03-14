@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thanchanok
 ==================================================================================================================================
 
-Junior Mobile Developer
+Mobile Developer
 -----------------------
 
-I'm junior mobile developer with two years. I'm ready to learn new things or new languages
+I'm mobile developer with two years. I'm ready to learn new things or new languages
 
 * 🌍  I'm based in Bangkok,Thailand
 
