@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile Developer
 -----------------------
 
-I'm mobile developer with 3 years.
+I'm mobile developer.
 
 * 🌍  I'm based in Bangkok,Thailand
 
